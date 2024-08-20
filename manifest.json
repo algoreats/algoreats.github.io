@@ -1,6 +1,6 @@
 {
     "name": "Griletto West Plaza",
-    "short_name": "Menu",
+    "short_name": "Griletto West Plaza",
     "description": "Aplicativo web para fazer pedidos no restaurante.",
     "start_url": "/",
     "display": "standalone",
